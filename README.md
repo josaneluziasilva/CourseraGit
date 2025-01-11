@@ -1,1 +1,1 @@
-Repositorio de teste para o curso Git e GitHub da Coursera
+Repositorio de teste para os cursos da Coursera
